@@ -1,4 +1,4 @@
-TriviaCracker
+TriviaCracker Fanfinifon
 =============
 
 A Chrome extension to automatically find the correct answer for you, and to give you unlimitied lives and spins, while playing Trivia Crack on Facebook (https://apps.facebook.com/triviacrack/).
